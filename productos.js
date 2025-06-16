@@ -1,0 +1,6 @@
+
+const productos = [
+    { id: 1, nombre: "Manzana", imagen: "manzana.jpg", precio: 100 },
+    { id: 2, nombre: "Banana", imagen: "banana.jpg", precio: 80 },
+    { id: 3, nombre: "Naranja", imagen: "naranja.jpg", precio: 120 }
+];
