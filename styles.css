@@ -4,7 +4,10 @@
     flex-wrap: wrap;
     justify-content: center;
     gap: 20px;
+<<<<<<< HEAD
     padding: 20px;
+=======
+>>>>>>> 5d2bfa121c5b5de8953ad6690d66a39e8d23a6c9
 }
 
 .card {
@@ -13,6 +16,7 @@
     width: 200px;
     text-align: center;
     box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+<<<<<<< HEAD
     border-radius: 8px;
     transition: transform 0.2s;
 }
@@ -20,14 +24,20 @@
 .card:hover {
     transform: translateY(-5px);
     box-shadow: 4px 4px 10px rgba(0,0,0,0.2);
+=======
+>>>>>>> 5d2bfa121c5b5de8953ad6690d66a39e8d23a6c9
 }
 
 .card img {
     width: 100%;
+<<<<<<< HEAD
     height: 150px;
     object-fit: cover;
     border-radius: 5px;
     margin-bottom: 10px;
+=======
+    height: auto;
+>>>>>>> 5d2bfa121c5b5de8953ad6690d66a39e8d23a6c9
 }
 
 .card button {
@@ -36,6 +46,7 @@
     padding: 10px;
     border: none;
     cursor: pointer;
+<<<<<<< HEAD
     border-radius: 5px;
     width: 100%;
     transition: background-color 0.2s;
@@ -94,4 +105,6 @@
 
 #comprar-btn:hover {
     background-color: #0056b3;
+=======
+>>>>>>> 5d2bfa121c5b5de8953ad6690d66a39e8d23a6c9
 }
